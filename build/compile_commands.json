@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/ray/projects/c/LITD/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -o LITDGame/CMakeFiles/LITD.dir/main.c.obj -c /home/ray/projects/c/LITD/LITDGame/main.c",
+  "file": "/home/ray/projects/c/LITD/LITDGame/main.c",
+  "output": "LITDGame/CMakeFiles/LITD.dir/main.c.obj"
+}
+]
