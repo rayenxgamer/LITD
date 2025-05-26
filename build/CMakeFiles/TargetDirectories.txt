@@ -1,5 +1,0 @@
-/home/ray/projects/c/LITD/build/CMakeFiles/edit_cache.dir
-/home/ray/projects/c/LITD/build/CMakeFiles/rebuild_cache.dir
-/home/ray/projects/c/LITD/build/LITDGame/CMakeFiles/LITD.dir
-/home/ray/projects/c/LITD/build/LITDGame/CMakeFiles/edit_cache.dir
-/home/ray/projects/c/LITD/build/LITDGame/CMakeFiles/rebuild_cache.dir
